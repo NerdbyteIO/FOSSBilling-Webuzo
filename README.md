@@ -64,12 +64,6 @@ Special thanks to the Webuzo and Softaculous team for providing a developer lice
 
 ---
 
-## License
-
-This project will be released as open source. The final license will be announced prior to the first public release.
-
----
-
 <p align="center">
   <strong>NerdByte</strong><br>
   Building tools for builders.
